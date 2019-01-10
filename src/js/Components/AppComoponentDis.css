@@ -1,0 +1,54 @@
+
+
+body{
+    font-size: 14px;
+	font-color: red;
+    background-color: lightgrey;
+    background-repeat: no-repeat ;
+    background-position: center ;
+    background-size: cover ;
+    height: flex;
+    width: 100%;
+    margin: 200px auto;
+
+}
+a
+{text-decoration: none;}
+div{
+     ;
+}
+.list{
+    align-content: center;
+    border-radius: 5px;
+    background-color: green ;
+}
+
+.list-group {
+
+    padding-left: 25px;
+    /* border-left: 1px solid red; */
+    color: red;
+}
+
+#page-numbers {
+    list-style: none;
+    display: flex;
+    align: center
+}
+
+#page-numbers > li {
+    margin-right: 0.3em;
+    color: blue;
+    user-select: none;
+    cursor: pointer;
+    border: 1px solid blue;
+    border-radius: 6px;
+    align-content: center
+}
+.pagin{
+    child-align: center
+}
+.col order-md-2{
+   background-color: yellow
+}
+
