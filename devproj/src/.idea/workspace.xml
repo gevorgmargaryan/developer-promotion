@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="240e1e2d-6cb9-4ff6-92d7-59e677ce7932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/action/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/DevelopersFormComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/DevelopersListComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FormComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ListComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MenuComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SelectValid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SkileComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TraningFormComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TraningListComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ValidatorComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/action-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,11 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/TraningFormComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -92,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/components/FormComponent.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1050">
-              <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="n#!!block;n#handleChangeLastName#0;n#ConnectedForm#0" />
@@ -196,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,15 +237,15 @@
       <updated>1547536096182</updated>
       <workItem from="1547536103658" duration="54564000" />
       <workItem from="1547704902264" duration="482000" />
+      <workItem from="1547707697860" duration="2812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55046000" />
+    <option name="totallyTimeSpent" value="57858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="203" y="23" width="1194" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20716113" />
@@ -421,7 +393,7 @@
     <entry file="file://$PROJECT_DIR$/components/FormComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
-          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="n#!!block;n#handleChangeLastName#0;n#ConnectedForm#0" />
@@ -459,11 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/TraningFormComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
